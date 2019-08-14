@@ -13,13 +13,7 @@
   <version>1.1-SNAPSHOT</version>
   <url>https://wiki.jenkins-ci.org/display/JENKINS/All+searched+results+plugin</url>
   
-  <developers>
-    <developer>
-      <id>lvotypko</id>
-      <name>Lucie Votypkova</name>
-      <email>lvotypko@redhat.com</email>
-    </developer>
-  </developers>
+  <developers/>
   
   <distributionManagement>
     <repository>
